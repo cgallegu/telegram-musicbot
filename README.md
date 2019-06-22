@@ -7,7 +7,7 @@ A Telegram musicbot
 - Run `bundle` (optional maybe? do it just to be sure)
 - Set the token in the `TELEGRAM_MUSICBOT_TOKEN` environment variable
   - Linux/OSX: `export TELEGRAM_MUSICBOT_TOKEN=<your token>`
-  - Windows: `SET TELEGRAM_MUSICBOT_TOKEN=<your token>``
+  - Windows: `SET TELEGRAM_MUSICBOT_TOKEN=<your token>`
 - Run `ruby bot.rb`
 
 # To-dos
